@@ -1,9 +1,9 @@
 'use client';
 
-import Navbar from "components/Navbar";
+import Navbar from "../components/Navbar";
 
 const IndexPage = () => {
-    return <div className="pt-16">
+    return <div>
         <Navbar />
     </div>
 }
