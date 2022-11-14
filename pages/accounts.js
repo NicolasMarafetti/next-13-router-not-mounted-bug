@@ -6,7 +6,9 @@ export default function page() {
 
   const router = useRouter();
 
+  console.log("router", router);
+
   return (
-    <div>page</div>
+    <div>Accounts Page</div>
   )
 }
